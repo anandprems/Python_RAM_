@@ -10,3 +10,5 @@ Python Class 3 recordings - https://drive.google.com/file/d/16AQuDZo1-R3hUaMrIiN
 Python Class 4 recordings - https://drive.google.com/file/d/1dfUyYaY82Evh3QUbd_2-9RtJPoA_1V1I/view?usp=drive_link 
 
 Python Class 5 recordings - https://drive.google.com/file/d/1ihqVKBvzxYuI9Y1IJvU8XKRhUVKYQdVZ/view?usp=drive_link 
+
+Python Class 6 recordings - https://drive.google.com/file/d/1r09ipr6urfrMSMh7Eoa8S9tlNQdXk36S/view?usp=drive_link 
