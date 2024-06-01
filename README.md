@@ -16,3 +16,6 @@ Python Class 5 recordings - https://drive.google.com/file/d/1ihqVKBvzxYuI9Y1IJvU
 Python Class 6 recordings - https://drive.google.com/file/d/1r09ipr6urfrMSMh7Eoa8S9tlNQdXk36S/view?usp=drive_link (1.30 hrs)
 
 Python Class 7 recordings - https://drive.google.com/file/d/1PMpfxcXVdZWpe7UnzWs7GQ4FGkJ1FkP6/view?usp=drive_link (2.00 hrs)
+
+Python Class 8 recordings - https://drive.google.com/file/d/15SVzUdOhgV0mEHvFQk0fpp7n_otJILuz/view?usp=drive_link (2.00 hrs)
+
