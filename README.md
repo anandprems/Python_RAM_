@@ -25,3 +25,5 @@ Python Class 9 recordings - https://drive.google.com/file/d/1xC7ulnZr28CTwR9weUP
 Python Class 10 recordings - https://drive.google.com/file/d/1GM9Upp0Ng2Gpo71mkD1-qf2l80KFeoG0/view?usp=drive_link (1.15 hrs)
 
 Python Class 11 recordings - https://drive.google.com/file/d/1dQrW3GBTUROSFqnekvZ3svwssiSKCAOT/view?usp=drive_link (1.oo hrs)
+
+Python Class 12 recordings - https://drive.google.com/file/d/1eFck1IL-_EiJdoMa_Tgr7EVfhSoFQANB/view?usp=drive_link (2.00 hrs)
